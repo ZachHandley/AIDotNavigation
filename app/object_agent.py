@@ -12,7 +12,7 @@ Features:
 - Preview paths with depth limiting to manage context size
 - Goal-oriented data extraction and analysis
 
-Author: Your Name
+Author: Zachary Handley
 License: MIT
 """
 
